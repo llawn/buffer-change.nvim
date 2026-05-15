@@ -2,16 +2,11 @@
 
 Diff the current buffer against any Git reference — branch, tag, or commit — with inline annotations powered by `mini.diff`.
 
-## Demo
-
-<img src="https://github.com/user-attachments/assets/cbc5ecd1-2aaf-4f43-9283-5666474aaa13" alt="Demo" width="720" />
-
 ## Features
 
 - Inline buffer diff against any Git ref (branch, tag, commit)
 - Interactive picker via `vim.ui.select`
 - Single user command `:BufferDiffRef`
-- Configurable default keymap
 
 ## Requirements
 
